@@ -1,4 +1,4 @@
-package storyteller;
+package storyteller123;
 import javax.swing.JOptionPane;
 
 public class Caixa {

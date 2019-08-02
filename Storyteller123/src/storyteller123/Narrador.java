@@ -1,4 +1,4 @@
-package storyteller;
+package storyteller123;
 
 import javax.swing.JOptionPane;
 
@@ -7,9 +7,9 @@ public class Narrador{
           //  public Pessoa jogador;
     
     
-            public static void getIntro() {
-                    Caixa.messageOk(Textos.startIntro());		
-            }
+//            public static void getIntro() {
+//                    Caixa.messageOk(Textos.startIntro());		
+//            }
 	/*
             public Pessoa getPlayer() {
                         this.jogador.getNome();

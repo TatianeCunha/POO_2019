@@ -10,7 +10,7 @@ public class EventoFinal extends Evento {
 
 	@Override
 	public int getEvento(Pessoa jogador) {
-		JOptionPane.showMessageDialog(null, getDescricao());
+		Caixa.messageOk(getDescricao());
 		return 2019;
 	}
 }

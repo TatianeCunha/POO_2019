@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public abstract class Caixa {
 
 	public static void messageOk(String message) {
-		JOptionPane.showMessageDialog(null, message, null, JOptionPane.DEFAULT_OPTION);
+		JOptionPane.showMessageDialog(null, message, null, JOptionPane.PLAIN_MESSAGE);
 	}
 
 	public static int getKiller(Pessoa jogador) {
